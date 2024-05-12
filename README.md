@@ -1,28 +1,22 @@
 # imersaoIAAGF
-# Projeto XYZ
 
-Este é um projeto para demonstrar a integração de widgets interativos com processamento de entrada e exibição de resultados.
+Este é um projeto destinado a demonstrar a integração da IA do Google em serviços, visando acelerar o processo e interação no processamento de entrada e exibição de resultados.
 
 ## Descrição
 
-O projeto consiste em uma interface interativa onde o usuário pode inserir informações, fazer perguntas e receber respostas. Ele inclui widgets para entrada de texto, seleção de opções, botões para envio de perguntas e exibição de respostas.
+O projeto visa criar uma plataforma interativa para facilitar o processo de doação, incluindo recursos de busca e indexação de documentos. Além de permitir aos usuários especificarem suas preferências de doação, a plataforma também oferece a capacidade de pesquisar documentos relevantes relacionados a diferentes organizações de caridade, programas de doação e informações sobre os itens necessários para doação.
 
 ## Funcionalidades
 
-- Entrada de informações básicas, como nome e cidade natal.
-- Seleção de opções de doações.
-- Envio de perguntas sobre determinado assunto.
-- Exibição de respostas com base nas perguntas feitas.
+- Integração com motores de busca para indexar e pesquisar documentos relacionados a organizações de caridade, programas de doação e itens necessários.
+- Exibição de resultados de pesquisa relevantes junto com as recomendações de doação.
+- Opção de filtragem de resultados de pesquisa por categoria, localização e outros critérios relevantes.
+- Recursos de navegação e visualização de documentos para que os usuários possam explorar detalhes adicionais sobre as organizações de caridade e programas de doação.
 
 ## Tecnologias Utilizadas
 
 - Python
 - Jupyter Notebooks
-- Biblioteca ipywidgets
+- Gemini
 
-## Instalação e Uso
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/projeto-xyz.git
